@@ -21,16 +21,16 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-Copyright(C) 2013 Maël A
+Copyright(C) 2014 Maël A
 
 ====================
 
-This plugin uses Qt the bukkit api version 1.6.4-R2.0
+This plugin uses the Bukkit API version 1.6.4-R2.0
 
 The bukkit is available under the terms of the GNU General Public License
 version 3 as published by the Free Software Foundation.
 
-Copyright(C) Bukkit
+Copyright(C) 2014 Bukkit contributors and others
 
 ====================
 
